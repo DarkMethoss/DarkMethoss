@@ -1,9 +1,3 @@
-# Copy everything below this line into your README.md
-# Replace YOUR_USERNAME with your GitHub username
-# Replace YOUR_EMAIL with your email
-# Replace YOUR_ZONE01_URL with your Zone01 profile URL
-
-
 <!-- HEADER -->
 <h1 align="center">
   Hi, I'm Ayoub 👋
