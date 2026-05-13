@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00b4ff?style=flat-square&labelColor=030810" />
   &nbsp;
   <img src="https://img.shields.io/badge/LOCATION-OUJDA%2C_MOROCCO-0066cc?style=flat-square&labelColor=030810" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SCHOOL-ZONE01_OUJDA-003d80?style=flat-square&labelColor=030810" />
 </div>
 
 <br/>
@@ -38,7 +36,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                     // SYSTEM BOOT                           ║
-║  > Initializing developer profile...                         ║
+║  > Initializing developer profile... [OK]                    ║
 ║  > Loading skills: Java, Spring Boot, Angular, Go... [OK]    ║
 ║  > Connecting to Zone01 Oujda network.............. [OK]     ║
 ║  > Status: Building. Learning. Shipping.                     ║
@@ -55,7 +53,6 @@
 name        : Ayoub Nachti
 handle      : DarkMethoss
 location    : Oujda, Morocco 🇲🇦
-school      : Zone01 Oujda (peer-to-peer, project-based)
 focus       : Java / Spring Boot + Angular → DevOps
 status      : Building my first full-stack production app
 email       : ay.nachti@gmail.com
@@ -94,8 +91,7 @@ philosophy  : "Good software is built slowly, on purpose."
 ## `[03]` &nbsp; CURRENT_MISSION.log
 
 ```diff
-+ [ACTIVE]   Full-stack app — Spring Boot 3 (JWT + Spring Security)
-+             + Angular (standalone components + Signals)
++ [ACTIVE]   Full-stack app — Spring Boot 3 (JWT + Spring Security) + Angular (standalone components + Signals)
 + [ACTIVE]   Containerizing projects with Docker & Docker Compose
 + [ACTIVE]   Studying Java design patterns (Strategy, Factory, Observer)
 ~ [QUEUED]   CI/CD pipeline with GitHub Actions
