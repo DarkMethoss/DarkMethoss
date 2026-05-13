@@ -69,11 +69,6 @@ I specialize in **Java / Spring Boot** + **Angular**, and I'm building toward a 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=darkmethoss&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmethoss&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkmethoss&theme=github-dark-blue&hide_border=true" />
 </p>
 
