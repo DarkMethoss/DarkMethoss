@@ -1,9 +1,3 @@
-# Copy everything below this line into your README.md
-# Replace YOUR_USERNAME with your GitHub username
-# Replace YOUR_EMAIL with your email
-# Replace YOUR_ZONE01_URL with your Zone01 profile URL
-
-
 <!-- HEADER -->
 <h1 align="center">
   Hi, I'm Ayoub 👋
@@ -28,7 +22,7 @@
 I'm a full-stack developer trained at **Zone01 Oujda** — a peer-to-peer, project-based coding program.
 I specialize in **Java / Spring Boot** + **Angular**, and I'm building toward a **DevOps path**.
 
-- 🔭 Currently working on a full-stack app with Spring Boot 3 + Angular 19
+- 🔭 Currently working on a full-stack app with Spring Boot + Angular
 - 🌱 Learning Docker, CI/CD, and clean architecture patterns
 - 🎯 Career path: Java Full Stack → DevOps → Cloud
 - 💬 Ask me about Spring Boot, REST APIs, or Angular Signals
@@ -42,19 +36,19 @@ I specialize in **Java / Spring Boot** + **Angular**, and I'm building toward a 
 <!-- TECH STACK -->
 ## 🛠 Tech Stack
 
-**Backend**
+**Backend: **
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Frontend**
+**Frontend: **
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Database & Tools**
+**Database & Tools:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
