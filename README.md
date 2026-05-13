@@ -1,92 +1,145 @@
-<!-- HEADER -->
-<h1 align="center">
-  Hi, I'm Ayoub 👋
-</h1>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║           DARKMETHOSS · GITHUB PROFILE README               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <b>Full Stack Developer · Java · Spring Boot · Angular · Go</b><br/>
-  Building clean, maintainable systems · Zone01 Oujda, Morocco 🇲🇦
-</p>
+<!-- RETRO HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=030810&text=%20&height=8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=030810&height=90&text=DARKMETHOSS&fontColor=00b4ff&fontSize=52&fontAlignY=62&fontAlign=50&desc=FULL+STACK+DEVELOPER&descColor=1a6b9a&descSize=14&descAlignY=84&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=030810&text=%20&height=8" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarkMethoss&color=58a6ff&style=flat-square&label=Profile+views" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-3fb950?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Oujda%2C%20Morocco-dd0031?style=flat-square" />
-</p>
+<br/>
 
----
+<!-- TYPING SVG -->
+<div align="center">
+  <a href="https://github.com/DarkMethoss">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2800&pause=1200&color=00B4FF&center=true&vCenter=true&width=600&lines=%3E+Java+%2F+Spring+Boot+developer%3B%3E+Angular+19+%7C+Signals+%7C+Standalone+components%3B%3E+Building+toward+DevOps+%26+Cloud%3B%3E+Zone01+Oujda+%7C+Morocco+%F0%9F%87%B2%F0%9F%87%A6%3B%3E+Open+to+opportunities_" alt="Typing SVG" />
+  </a>
+</div>
 
-<!-- ABOUT -->
-## 🧑‍💻 About me
+<br/>
 
-I'm a full-stack developer trained at **Zone01 Oujda** — a peer-to-peer, project-based coding program.
-I specialize in **Java / Spring Boot** + **Angular**, and I'm building toward a **DevOps path**.
+<!-- PROFILE BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DarkMethoss&color=00b4ff&style=flat-square&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00b4ff?style=flat-square&labelColor=030810" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-OUJDA%2C_MOROCCO-0066cc?style=flat-square&labelColor=030810" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SCHOOL-ZONE01_OUJDA-003d80?style=flat-square&labelColor=030810" />
+</div>
 
-- 🔭 Currently working on a full-stack app with Spring Boot + Angular
-- 🌱 Learning Docker, CI/CD, and clean architecture patterns
-- 🎯 Career path: Java Full Stack → DevOps → Cloud
-- 💬 Ask me about Spring Boot, REST APIs, or Angular Signals
-- 📫 Reach me: **ay.nachti@gmail.com**
-- 🌍 Based in **Oujda, Morocco**
+<br/>
 
-> *"Good software is built slowly, on purpose."*
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                     // SYSTEM BOOT                           ║
+║  > Initializing developer profile...                         ║
+║  > Loading skills: Java, Spring Boot, Angular, Go... [OK]    ║
+║  > Connecting to Zone01 Oujda network.............. [OK]     ║
+║  > Status: Building. Learning. Shipping.                     ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
-
-<!-- TECH STACK -->
-## 🛠 Tech Stack
-
-**Backend: **
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frontend: **
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Database & Tools:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br/>
 
 ---
 
-<!-- CURRENT FOCUS -->
-## 🎯 Currently working on
+## `[01]` &nbsp; ABOUT.exe
 
-- 🔨 Full-stack app: **Spring Boot 3** (REST API, JWT, Spring Security 6) + **Angular 19** (standalone components, Signals)
-- 🐳 Containerizing projects with **Docker** + Docker Compose
-- 📖 Studying **design patterns** in Java (Strategy, Factory, Observer)
-- 🗺️ Following the **DevOps roadmap**: Docker → CI/CD with Jenkins/GitHub Actions → Kubernetes
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkmethoss&theme=github-dark-blue&hide_border=true" />
-</p>
+```yaml
+name        : Ayoub Nachti
+handle      : DarkMethoss
+location    : Oujda, Morocco 🇲🇦
+school      : Zone01 Oujda (peer-to-peer, project-based)
+focus       : Java / Spring Boot + Angular → DevOps
+status      : Building my first full-stack production app
+email       : ay.nachti@gmail.com
+philosophy  : "Good software is built slowly, on purpose."
+```
 
 ---
 
-<!-- CONNECT -->
-## 🤝 Connect with me
+## `[02]` &nbsp; TECH_STACK.json
 
-<p>
+**`// BACKEND`**
+
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=030810)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=030810)
+![Go](https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=030810)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=030810)
+![Express](https://img.shields.io/badge/EXPRESS-ffffff?style=flat-square&logo=express&logoColor=black&labelColor=030810)
+
+**`// FRONTEND`**
+
+![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=030810)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=030810)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=030810)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=030810)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=030810)
+
+**`// DATABASE & INFRA`**
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=030810)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=030810)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=030810)
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white&labelColor=030810)
+
+---
+
+## `[03]` &nbsp; CURRENT_MISSION.log
+
+```diff
++ [ACTIVE]   Full-stack app — Spring Boot 3 (JWT + Spring Security)
++             + Angular (standalone components + Signals)
++ [ACTIVE]   Containerizing projects with Docker & Docker Compose
++ [ACTIVE]   Studying Java design patterns (Strategy, Factory, Observer)
+~ [QUEUED]   CI/CD pipeline with GitHub Actions
+~ [QUEUED]   Kubernetes basics + cloud deployment
+~ [QUEUED]   Kafka & microservices architecture
+```
+
+---
+
+## `[04]` &nbsp; GITHUB_STATS.sh
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarkMethoss&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=030810&title_color=00b4ff&icon_color=0066cc&text_color=4488bb&border_color=0a2040" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMethoss&layout=compact&theme=midnight-purple&hide_border=true&bg_color=030810&title_color=00b4ff&text_color=4488bb" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkMethoss&theme=dark&hide_border=true&background=030810&ring=00b4ff&fire=0066cc&currStreakLabel=00b4ff&sideLabels=4488bb&dates=1a4060&currStreakNum=00d4ff&sideNums=0099dd" />
+</div>
+
+---
+
+## `[05]` &nbsp; CONNECT.sh
+
+<div align="center">
   <a href="https://linkedin.com/in/ay-nachti">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030810" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:ay.nachti@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-00b4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030810" />
   </a>
-</p>
+  &nbsp;
+  <a href="https://github.com/DarkMethoss">
+    <img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=030810" />
+  </a>
+</div>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=60&section=footer" />
-</p>
+<br/>
+
+<!-- RETRO FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=030810&height=40&text=//+EOF+·+DarkMethoss+·+Oujda+🇲🇦+·+2025&fontColor=1a4060&fontSize=13&fontAlignY=60" width="100%"/>
+</div>
